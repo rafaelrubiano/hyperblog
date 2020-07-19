@@ -3,3 +3,5 @@ Esta es la historia de Rafael Rubiano
 Rafael Rubiano tiene 31 años y naciò en colombia, pero vive en Mosquera
 
 Hoy hablaremos de su historia y de la maestria en git
+
+Tambien de su trayectoria en sistemas
